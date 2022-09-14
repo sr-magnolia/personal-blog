@@ -1,0 +1,4 @@
+baseURL = 'https://magnoliasandoval.com/'
+languageCode = 'es-MX'
+title = 'Magnolia'
+theme = "LoveIt"
