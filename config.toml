@@ -83,9 +83,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "My cool site"
+  title = "Magnolia en la nube"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "This is my cool site"
+  description = "La nube de aws es la mejor para mi para ti!"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -191,7 +191,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      #avatarURL = "images/girl.png"
+      avatarURL = "/images/girl.png"
       #  title shown in home page (HTML format is supported)
       title = "Mag"
       # subtitle shown in home page (HTML format is supported)
@@ -221,7 +221,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  Page global config
   [params.page]
     #  whether to hide a page from home page
-    #hiddenFromHomePage = false
+    # hiddenFromHomePage = false
     #  whether to hide a page from search results
     hiddenFromSearch = false
     #  whether to enable twemoji
