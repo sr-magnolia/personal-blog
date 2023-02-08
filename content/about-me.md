@@ -17,8 +17,9 @@ Cuando no hablo de Tech, lo hago de viajes y teatro.
 - MemSQL Administrator (SingleStore)
 - Scrum Master
 - AWS Cloud practitioner
-- AWS Certified Solutions Architect Associate
-- AWS Certified Developer Associate
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
+- AWS Certified SysOps Administrator - Associate
 
 #### Viajes
 - 2/7 Mamaravillas del mundo

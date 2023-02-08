@@ -195,7 +195,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Mag"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "AWS 3x Certificaciones | Scrum Master | Big Data"
+      subtitle = "AWS 4x Certificaciones | Scrum Master | Big Data"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
