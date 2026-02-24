@@ -1,0 +1,14 @@
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+[[main]]
+  name = "Acerca de"
+  pageRef = "menu/acerca-de.md"
+[[main]]
+  name = "Linea de Tiempo"
+  pageRef = "menu/linea-de-tiempo.md"
+
+[[footer]]
+  name = "Builder AWS Profile"
+  url = "https://builder.aws.com/community/@magnolia?tab=articles"

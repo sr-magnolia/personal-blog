@@ -1,0 +1,13 @@
+baseURL = 'https://magnoliasandoval.com/'
+languageCode = 'es'
+title = 'Magnolia Sandoval'
+theme = "blowfish"
+
+[params.author]
+name = "Magnolia Sandoval"
+image = "img/author.png"
+bio = "Senior Cloud Engenieer "
+links = [
+  { linkedin = "https://www.linkedin.com/in/magnolia-sandoval-cloud-aws/"},
+  { github = "https://github.com/sr-magnolia"}
+]
