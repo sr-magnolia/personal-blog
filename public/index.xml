@@ -1,29 +1,13 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Magnolia</title>
-        <link>https://magnoliasandoval.com/</link>
-        <description>La nube de aws es la mejor para mi para ti!</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Mon, 19 Sep 2022 20:27:31 -0500</lastBuildDate>
-            <atom:link href="https://magnoliasandoval.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Mi Visita a Teotihuacan</title>
-    <link>https://magnoliasandoval.com/mi-visita-a-teotihuacan/</link>
-    <pubDate>Mon, 19 Sep 2022 20:27:31 -0500</pubDate>
-    <author>Magnolia Sandoval</author>
-    <guid>https://magnoliasandoval.com/mi-visita-a-teotihuacan/</guid>
-    <description><![CDATA[Teotihuacan es patrimonio de la humanidad. Es un lugar increíble, la primera vez que lo visite tenia X años, en ese entonces se podia subir a las piramides del Sol y la Luna, recuerdo unos escalones enormes y el cansancio que me dejo ese viaje.
-Aqui una linda foto de mi yo mas pequeña.
-Este año visite Teotihuacan con mi primo Rafae, el sitio arqueologicol me parecio un lugar extremadamente grande y hermoso.]]></description>
-</item>
-<item>
-    <title>My First Post</title>
-    <link>https://magnoliasandoval.com/my-first-post/</link>
-    <pubDate>Wed, 14 Sep 2022 16:34:22 -0700</pubDate>
-    <author>Magnolia Sandoval</author>
-    <guid>https://magnoliasandoval.com/my-first-post/</guid>
-    <description><![CDATA[Hola! Encontraste mi sitio web, ¡Bienvenido!
-He tenido esta dirección web desde hace un tiempo y realmente no la he utilizado mucho. Pero eso está a punto de cambiar, ya que me he propuesto crear un post una vez al mes.
-Este año ( 2022 ) me uní al programa de constructores de comunidad de aws … a través de mi sitio estaré contandote lo genial que es la nube y mi experiencia usando AWS los últimos 5 años.]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magnolia Sandoval</title>
+    <link>https://magnoliasandoval.com/</link>
+    <description>Recent content on Magnolia Sandoval</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Magnolia Sandoval</copyright>
+    <lastBuildDate></lastBuildDate><atom:link href="https://magnoliasandoval.com/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
 </rss>

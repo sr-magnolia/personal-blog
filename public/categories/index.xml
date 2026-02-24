@@ -1,7 +1,13 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Categories - Category - Magnolia</title>
-        <link>https://magnoliasandoval.com/categories/</link>
-        <description>Categories - Category - Magnolia</description>
-        <generator>Hugo -- gohugo.io</generator><language>es-MX</language><atom:link href="https://magnoliasandoval.com/categories/" rel="self" type="application/rss+xml" /></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Magnolia Sandoval</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Magnolia Sandoval</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Magnolia Sandoval</copyright>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
 </rss>
