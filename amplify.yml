@@ -1,0 +1,15 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - hugo version
+    build:
+      commands:
+        - hugo --gc --minify
+  artifacts:
+    baseDirectory: public
+    files:
+      - '**/*'
+  cache:
+    paths: []
