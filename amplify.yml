@@ -13,3 +13,5 @@ frontend:
       - '**/*'
   cache:
     paths: []
+env:
+  variables: {}
